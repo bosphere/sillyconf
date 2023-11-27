@@ -1,10 +1,10 @@
 {
     "sale_label": {
-        "enabled": true,
-        "text": "🔥 YEAR END SALE!",
-        "text_color": "#04CC06",
-        "bg_color": "#FF0000",
-        "shadow_color": "#000000",
-        "stroke_color": "#04CC06"
+        "enabled": false,
+        "text": "🔥 YEAR END SALE",
+        "text_color": "#40CCA6",
+        "bg_color": "#FFFFFF",
+        "shadow_color": "#FFFFFF",
+        "stroke_color": "#40CCA6"
     }
 }
